@@ -1,0 +1,10 @@
+# Job ID: 91db91d1-8a90-4f7c-b9ca-5792104d2904
+# Timestamp: 2025-07-28 01:03:09.710190
+
+=== Kernel ===
+print('Hello from kernel')
+
+
+=== Data ===
+{"input": [1,2,3]}
+
