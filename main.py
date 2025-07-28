@@ -1,11 +1,4 @@
-import click
-from cli.submit_job import submit_job
+from cli import submit_job
 
-@click.group()
-def cli():
-    pass
-
-cli.add_command(submit_job)
-
-if __name__ == '__main__':
-    cli()
+if __name__ == "__main__":
+    submit_job.run()
