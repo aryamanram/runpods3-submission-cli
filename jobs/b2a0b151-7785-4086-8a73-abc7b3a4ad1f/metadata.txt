@@ -1,4 +1,0 @@
-Job ID: b2a0b151-7785-4086-8a73-abc7b3a4ad1f
-Timestamp: 2025-07-28 16:46:26.962582
-Kernel File: test_kernel2.txt
-Data File: test_data2.json
